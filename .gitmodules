@@ -1,0 +1,9 @@
+[submodule "lib/esp8266driver"]
+	path = lib/esp8266driver
+	url = https://github.com/atakansarioglu/esp8266-iot-driver.git
+[submodule "lib/c-circus"]
+	path = lib/c-circus
+	url = https://github.com/atakansarioglu/c-circus.git
+[submodule "lib/mculibs"]
+	path = lib/mculibs
+	url = https://github.com/atakansarioglu/mculibs_stm32f10x.git
