@@ -3,7 +3,7 @@
  * @author    Atakan S.
  * @date      01/06/2018
  * @version   1.0
- * @brief     PAHO MQTT Embedded demo that blinks LED over MQTT.
+ * @brief     PAHO Embedded demo publishes temperature to MQTT via ESP8266.
  *
  * @copyright Copyright (c) 2018 Atakan SARIOGLU ~ www.atakansarioglu.com
  *
