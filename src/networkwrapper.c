@@ -190,7 +190,7 @@ int network_recv(unsigned char *address, unsigned int maxbytes){
 		network_recv_state = 0;
 		
 		// Error.
-		return 0;
+		return -1;
 	}
 
 	// In progress.
