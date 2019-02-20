@@ -1,7 +1,7 @@
 /**
  * @file      main.c
  * @author    Atakan S.
- * @date      01/06/2018
+ * @date      01/01/2019
  * @version   1.0
  * @brief     PAHO Embedded demo publishes temperature to MQTT via ESP8266.
  *
